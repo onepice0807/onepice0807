@@ -5,7 +5,7 @@
 
 - 👨‍💻 주요 프로젝트 [https://github.com/onepice0807/Barca-Market](https://github.com/onepice0807)
 
-- 📝 블로그 [https://ray0807.tistory.com]()
+- 📝 블로그 [https://onepice0807.tistory.com]()
 
 - 💬 주요 기술 **react, next.js, tailwind**
 

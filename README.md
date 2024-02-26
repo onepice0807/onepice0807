@@ -3,7 +3,7 @@
 
 - 🌱 관심사 ****
 
-- 👨‍💻 주요 프로젝트 [https://github.com/onepice0807/device-commerce](https://github.com/onepice0807)
+- 👨‍💻 주요 프로젝트 [https://github.com/onepice0807/device-commerce]()
 
 - 📝 블로그 [https://onepice0807.tistory.com]()
 

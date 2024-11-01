@@ -3,11 +3,13 @@
 
 - 🌱 관심사 ****
 
-- 👨‍💻 주요 프로젝트 [https://github.com/onepice0807/device-commerce](https://github.com/onepice0807/device-commerce)
+- 👨‍💻 C# 자료구조 및 알고리즘 [https://github.com/onepice0807/Data-structures-and-algorithms-C)](https://github.com/onepice0807/Data-structures-and-algorithms-C)](https://github.com/onepice0807/device-commerce)
+
+- 👨‍💻 C# 자료구조 및 알고리즘 [[https://github.com/onepice0807/Data-structures-and-algorithms-Csharp](https://github.com/onepice0807/Data-structures-and-algorithms-Csharp)](https://github.com/onepice0807/device-commerce)
 
 - 📝 블로그 [https://onepice0807.tistory.com](https://onepice0807.tistory.com)
 
-- 💬 주요 기술 **react, next.js, tailwind**
+- 💬 주요 기술 **C#, C, C++, Unity3D, react, next.js, tailwind**
 
 - 📫 연락처 **onepice0807@gmail.com**
 

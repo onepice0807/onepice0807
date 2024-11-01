@@ -9,7 +9,7 @@
 
 - 👨‍💻 C# 자료구조 및 알고리즘 [https://github.com/onepice0807/Data-structures-and-algorithms-Csharp](https://github.com/onepice0807/Data-structures-and-algorithms-Csharp)
 
-- 📝 블로그 [https://onepice0807.tistory.com](https://onepice0807.tistory.com)
+- 📝 게임 정보 블로그 [https://blog.naver.com/onepice0807-)
 
 - 💬 주요 기술 **C#, C, C++, Unity3D, react, next.js, tailwind**
 

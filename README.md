@@ -7,7 +7,7 @@
 - 프로젝트 상세설명 [https://lacy-shear-cd7.notion.site/3D-1096e957419c8083a236f61b44db3d13?pvs=74](https://lacy-shear-cd7.notion.site/3D-1096e957419c8083a236f61b44db3d13?pvs=74)
 - 프로젝트 파일 및 영상자료 [https://drive.google.com/drive/u/0/folders/1RXAmyHA0YbD0eqY1BUyzRiUQUcZvi5YG](https://drive.google.com/drive/u/0/folders/1RXAmyHA0YbD0eqY1BUyzRiUQUcZvi5YG)
                       
-  
+- 👨‍💻 인풋시스템을 활용한 미니게임 프로젝트 [https://github.com/onepice0807/GameHub_By_InputSystem](https://github.com/onepice0807/GameHub_By_InputSystem)
 - 👨‍💻 C 자료구조 및 알고리즘 [https://github.com/onepice0807/Data-structures-and-algorithms-C](https://github.com/onepice0807/Data-structures-and-algorithms-C)
 
 - 👨‍💻 C# 자료구조 및 알고리즘 [https://github.com/onepice0807/Data-structures-and-algorithms-Csharp](https://github.com/onepice0807/Data-structures-and-algorithms-Csharp)

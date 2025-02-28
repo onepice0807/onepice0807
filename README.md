@@ -4,7 +4,7 @@
 - 🌱 관심사 ****
 
 - 언리얼 게임 프로젝트 [https://github.com/onepice0807/QuestHunter_-Unity3D-Csharp_-3DActionProject-](https://github.com/onepice0807/QuestHunter_-Unity3D-Csharp_-3DActionProject-)
-- 유니티 게임 프로젝트 플레이 빌드 [https://github.com/onepice0807/QuestHunter_-Unity3D-Csharp_-3DActionProject-](https://questhunterproject.netlify.app/)
+- 유니티 게임 프로젝트 플레이 빌드 [https://questhunterproject.netlify.app/](https://questhunterproject.netlify.app/)
 - 유니티 게임 프로젝트 [https://github.com/onepice0807/QuestHunter_-Unity3D-Csharp_-3DActionProject-](https://github.com/onepice0807/QuestHunter_-Unity3D-Csharp_-3DActionProject-)
 - 프로젝트 상세설명 [https://lacy-shear-cd7.notion.site/3D-1096e957419c8083a236f61b44db3d13?pvs=74](https://lacy-shear-cd7.notion.site/3D-1096e957419c8083a236f61b44db3d13?pvs=74)
 - 프로젝트 파일 및 영상자료 [https://drive.google.com/drive/u/0/folders/1RXAmyHA0YbD0eqY1BUyzRiUQUcZvi5YG](https://drive.google.com/drive/u/0/folders/1RXAmyHA0YbD0eqY1BUyzRiUQUcZvi5YG)
